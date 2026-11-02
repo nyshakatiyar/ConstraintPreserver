@@ -189,4 +189,3 @@ Developed as a project exploring Natural Language Processing, semantic search, d
 ---
 
 **Project:** ConstraintPreserver
-**Repository:** https://github.com/bhargavi-anand/ConstraintPreserver
